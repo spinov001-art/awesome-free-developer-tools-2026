@@ -19,6 +19,7 @@
 
 ## IDEs & Editors
 
+- [Glim](https://github.com/NeoPanic/Glim) — macOS file viewer with Markdown preview and basic text editing
 - [VS Code](https://code.visualstudio.com/) — The most popular code editor, thousands of extensions
 - [Cursor](https://cursor.sh/) — AI-first code editor built on VS Code
 - [Zed](https://zed.dev/) — High-performance editor written in Rust
