@@ -95,6 +95,7 @@
 - [LM Studio](https://lmstudio.ai/) — Desktop LLM runner
 - [Google AI Studio](https://aistudio.google.com/) — Gemini API, free tier
 - [Groq](https://groq.com/) — Fast LLM inference, generous free tier
+- [agent-qa](https://vostride.com) — Natural-language web, Android and iOS QA with persistent memidex memory and validated self-improvement; early-stage, free permitted-use software under FSL-1.1-ALv2 competing-use restrictions, with separate model/infrastructure costs.
 
 ## Security
 
